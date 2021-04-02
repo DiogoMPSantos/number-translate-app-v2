@@ -1,4 +1,4 @@
-# number_translate_app_v2
+# Number Translate App
 
 A new Flutter project.
 
